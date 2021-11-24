@@ -1,0 +1,27 @@
+ttkthemes~=3.1.0
+psutil~=5.7.0
+win32process
+flask~=1.1.2
+matplotlib~=3.2.2
+cycles
+kiwisolver
+pyparsing
+python-dateuil
+pytz
+six
+GPUtil~=1.4.0
+keyboard~=0.13.5
+python-dateutil~=2.8.1
+plotly~=4.8.2
+pywin32
+apptracker~=0.0.6
+diff_match_patch >=20181111
+intervaltree
+jedi
+parso
+watchdog
+setuptools~=49.1.1
+uiautomation~=2.0.5
+tabulate~=0.8.7
+numpy~=1.19.0
+win10toast~=0.9
